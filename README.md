@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marionel da Silva
-- 👀 I’m interested in AI, Java, Python, Web Apps...
+- 👀 I’m interested in AI, Java, Python, Web Development...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on short and medium projects
 
